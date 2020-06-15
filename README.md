@@ -9,4 +9,4 @@ At the end of the notebook, that is in the visualisation section we can observe 
    * Age 
   
   
-  These factors predict whether a person is diabetic or not. Inorder to check this just scroll on the visualisation to predict!!!# Diabetes_Prediction_Model
+  These factors predict whether a person is diabetic or not. Inorder to check this just scroll on the visualisation to predict!!
